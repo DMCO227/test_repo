@@ -7,3 +7,15 @@ h3 {
   background-color: royalblue;
   color: pink
 }
+h2 {
+    height: 80px;
+    width: 120px;
+    border-color: #000066;
+    background-color: #cc0000;
+    border-style:solid;
+    border-width:3px;
+    border-radius:10px;
+    margin:inherit;
+    text-align:center;
+    color:white
+}
