@@ -1,6 +1,7 @@
 h1 {
   /*background-image: url("./images/colorful.jpg");*/
-  background-color: coral
+  background-color: coral;
+  font-style: Verdana;
 }
 h3 {
   background-color: royalblue;
