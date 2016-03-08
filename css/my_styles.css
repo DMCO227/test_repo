@@ -20,12 +20,8 @@ h2 {
     margin:auto;
 }
 
-#example h1, h3, h2 {
+#center h1, h3, h2, p {
       text-align:center;
-}
-
-div {
-
 }
 #links {
   width: 155px;
